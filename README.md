@@ -4,6 +4,9 @@ Hi there! This repo will contain FLA files for things that I mess around with. T
 
 Offset lists will also be included in case a character has offsets that are different from their original, or is a new character with new offsets.
 
+## The offsets folder
+The character offsets folder will contain offset lists of characters that require them. If a character doesn't have an offset, just assume the default offsets in the mod or engine you play will work fine!
+
 ## Check out my Carrd.
 My Carrd contains links to all my other social medias, and in the future will have a list of my OCs as well.
 
