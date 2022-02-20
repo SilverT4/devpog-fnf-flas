@@ -1,0 +1,2 @@
+there are two nextor offset files as there are technically two variations of them, one meant for the dave and bambi mod. the "nextor.offsets" file with no numbers is good for any mod, no matter what, as long as you can add their offsets.
+**nextor has NO hit/pre-attack/attack animations at the moment!**
