@@ -37,7 +37,9 @@ miniSaber - Mini Star Saber. BF reskin.
 
 Blitz_Assets - Assets for Blitz. BF reskin with extra animations from the Nonsense mod.
 
-devinAssets - This and car/christmas are just me. BF reskin
+devinAssets - This and car/christmas are just me. BF reskin.
+
+
 
 ## Quick note
 tinySusDot is literally just a tiny dot. You can use it, just give it a single animation called 'idle' with no sing anims. I use it in Psych Engine to work around trying to figure out GF positioning for characters that aren't the regular GF.
