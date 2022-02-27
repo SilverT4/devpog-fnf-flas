@@ -34,6 +34,10 @@ henry_chrysler - Ditto
 miniApt - BF reskin of Mini Aptimus, an OC to represent Mini Optimus' processor.
 
 miniSaber - Mini Star Saber. BF reskin.
+<<<<<<< HEAD
+Blitz_Assets - Assets for Blitz. BF reskin with extra animations from the Nonsense mod.
+=======
 
+>>>>>>> 92a075e7bf9964d79115afb8f5e63aa3f9a6c655
 ## Quick note
 tinySusDot is literally just a tiny dot. You can use it, just give it a single animation called 'idle' with no sing anims. I use it in Psych Engine to work around trying to figure out GF positioning for characters that aren't the regular GF.
