@@ -1,0 +1,9 @@
+Hi there, just a quick note.
+
+I didn't include any files for the Christmas sprites, as I'm currently trying to think of a colour scheme I could use to differentiate it from the regular sprites. It'll still be the same character-based recolour, but I just want to have more colour than the original in it.
+
+In the mean time, enjoy this mod. If you have the original Soft mod, you can check 'em out in that as well. Just rename "Rokusho_Pico_Assets" to "GF_assets" and "Rokusho_Car_Assets" to "soft_pico_blow_car". The icons were recoloured in paint.NET, just copy the first icon there over the original Pico icon if you want to include icons as well.
+
+By the way, credit for the Soft mod goes to its original creators! I've included a link back to the mod in the credits.
+
+- devin503

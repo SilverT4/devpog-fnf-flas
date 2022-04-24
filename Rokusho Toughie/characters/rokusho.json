@@ -1,0 +1,154 @@
+{
+    "animations": [
+        {
+            "loop": false,
+            "anim": "singLEFT",
+            "name": "GF left note",
+            "indices": [],
+            "fps": 24,
+            "offsets": [
+                0,
+                1
+            ]
+        },
+        {
+            "loop": false,
+            "anim": "singRIGHT",
+            "name": "GF Right Note",
+            "indices": [],
+            "fps": 24,
+            "offsets": [
+                0,
+                -3
+            ]
+        },
+        {
+            "loop": false,
+            "anim": "singUP",
+            "name": "GF Up Note",
+            "indices": [],
+            "fps": 24,
+            "offsets": [
+                0,
+                12
+            ]
+        },
+        {
+            "loop": false,
+            "anim": "singDOWN",
+            "name": "GF Down Note",
+            "indices": [],
+            "fps": 24,
+            "offsets": [
+                0,
+                -13
+            ]
+        },
+        {
+            "loop": false,
+            "anim": "sad",
+            "name": "gf sad",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "fps": 24,
+            "offsets": [
+                0,
+                -21
+            ]
+        },
+        {
+            "loop": false,
+            "anim": "cheer",
+            "name": "GF Cheer",
+            "indices": [],
+            "fps": 24,
+            "offsets": [
+                0,
+                -3
+            ]
+        },
+        {
+            "loop": true,
+            "anim": "hairBlow",
+            "name": "GF Dancing Beat Hair blowing",
+            "indices": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "fps": 24,
+            "offsets": [
+                0,
+                -9
+            ]
+        },
+        {
+            "loop": true,
+            "anim": "hairFall",
+            "name": "GF Dancing Beat Hair Landing",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "fps": 24,
+            "offsets": [
+                0,
+                -9
+            ]
+        },
+        {
+            "loop": true,
+            "anim": "scared",
+            "name": "GF FEAR",
+            "indices": [],
+            "fps": 24,
+            "offsets": [
+                0,
+                -19
+            ]
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/Rokusho_Pico_Assets",
+    "position": [
+        0,
+        180
+    ],
+    "healthicon": "rokusho",
+    "flip_x": false,
+    "healthbar_colors": [
+        176,
+        179,
+        183
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 4,
+    "scale": 1
+}
